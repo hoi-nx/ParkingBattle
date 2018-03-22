@@ -1,0 +1,562 @@
+fileFormatVersion: 2
+guid: 3207c574e7eebeb4baf49d6c85b5c42b
+timeCreated: 1519859015
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Box
+    100004: Box1
+    100006: Box10
+    100008: Box11
+    100010: Box12
+    100012: Box2
+    100014: Box3
+    100016: Box4
+    100018: Box5
+    100020: Box6
+    100022: Box7
+    100024: Box8
+    100026: Box9
+    100028: Car
+    100030: Car1
+    100032: Car2
+    100034: Car3
+    100036: Circle
+    100038: Cylinder
+    100040: Cylinder1
+    100042: Park
+    100044: Plane
+    100046: Plane1
+    100048: Plane10
+    100050: Plane11
+    100052: Plane12
+    100054: Plane13
+    100056: Plane14
+    100058: Plane15
+    100060: Plane16
+    100062: Plane17
+    100064: Plane18
+    100066: Plane19
+    100068: Plane2
+    100070: Plane20
+    100072: Plane21
+    100074: Plane22
+    100076: Plane23
+    100078: Plane24
+    100080: Plane25
+    100082: Plane26
+    100084: Plane27
+    100086: Plane28
+    100088: Plane29
+    100090: Plane3
+    100092: Plane30
+    100094: Plane31
+    100096: Plane32
+    100098: Plane33
+    100100: Plane34
+    100102: Plane35
+    100104: Plane4
+    100106: Plane5
+    100108: Plane6
+    100110: Plane7
+    100112: Plane8
+    100114: Plane9
+    100116: Road
+    100118: Road 2
+    100120: Sidewalk
+    100122: Sidewalk 3
+    100124: Sidewalk 4
+    100126: Sidewalk 5
+    100128: Sidewalk 6
+    100130: Sidewalk 7
+    100132: Sidewalk 8
+    100134: Sidewalk 9
+    100136: Sphere
+    100138: Sphere1
+    100140: Sphere2
+    100142: Text
+    100144: Text1
+    100146: Torus
+    100148: Torus1
+    100150: Torus10
+    100152: Torus11
+    100154: Torus12
+    100156: Torus13
+    100158: Torus14
+    100160: Torus15
+    100162: Torus2
+    100164: Torus3
+    100166: Torus4
+    100168: Torus5
+    100170: Torus6
+    100172: Torus7
+    100174: Torus8
+    100176: Torus9
+    100178: Yellow Lines
+    100180: Yellow Lines1
+    400000: //RootNode
+    400002: Box
+    400004: Box1
+    400006: Box10
+    400008: Box11
+    400010: Box12
+    400012: Box2
+    400014: Box3
+    400016: Box4
+    400018: Box5
+    400020: Box6
+    400022: Box7
+    400024: Box8
+    400026: Box9
+    400028: Car
+    400030: Car1
+    400032: Car2
+    400034: Car3
+    400036: Circle
+    400038: Cylinder
+    400040: Cylinder1
+    400042: Park
+    400044: Plane
+    400046: Plane1
+    400048: Plane10
+    400050: Plane11
+    400052: Plane12
+    400054: Plane13
+    400056: Plane14
+    400058: Plane15
+    400060: Plane16
+    400062: Plane17
+    400064: Plane18
+    400066: Plane19
+    400068: Plane2
+    400070: Plane20
+    400072: Plane21
+    400074: Plane22
+    400076: Plane23
+    400078: Plane24
+    400080: Plane25
+    400082: Plane26
+    400084: Plane27
+    400086: Plane28
+    400088: Plane29
+    400090: Plane3
+    400092: Plane30
+    400094: Plane31
+    400096: Plane32
+    400098: Plane33
+    400100: Plane34
+    400102: Plane35
+    400104: Plane4
+    400106: Plane5
+    400108: Plane6
+    400110: Plane7
+    400112: Plane8
+    400114: Plane9
+    400116: Road
+    400118: Road 2
+    400120: Sidewalk
+    400122: Sidewalk 3
+    400124: Sidewalk 4
+    400126: Sidewalk 5
+    400128: Sidewalk 6
+    400130: Sidewalk 7
+    400132: Sidewalk 8
+    400134: Sidewalk 9
+    400136: Sphere
+    400138: Sphere1
+    400140: Sphere2
+    400142: Text
+    400144: Text1
+    400146: Torus
+    400148: Torus1
+    400150: Torus10
+    400152: Torus11
+    400154: Torus12
+    400156: Torus13
+    400158: Torus14
+    400160: Torus15
+    400162: Torus2
+    400164: Torus3
+    400166: Torus4
+    400168: Torus5
+    400170: Torus6
+    400172: Torus7
+    400174: Torus8
+    400176: Torus9
+    400178: Yellow Lines
+    400180: Yellow Lines1
+    2100000: 6d6c6c
+    2100002: af883b
+    2100004: 3cba31
+    2100006: 5e2727
+    2100008: b0b0b0
+    2100010: d27b2
+    2100012: 191919
+    2100014: 2e1ba8
+    2100016: 545151
+    2100018: eaff00
+    2100020: f9ff00
+    2100022: 563636
+    2100024: 34a30e
+    2100026: a030e5
+    2100028: 722ace
+    2100030: ff6b00
+    2100032: 282626
+    2100034: 66112a
+    2100036: b20d0d
+    2100038: 57bc68
+    2100040: 309ca3
+    2300000: Box
+    2300002: Box1
+    2300004: Box10
+    2300006: Box11
+    2300008: Box12
+    2300010: Box2
+    2300012: Box3
+    2300014: Box4
+    2300016: Box5
+    2300018: Box6
+    2300020: Box7
+    2300022: Box8
+    2300024: Box9
+    2300026: Car
+    2300028: Car1
+    2300030: Car2
+    2300032: Car3
+    2300034: Circle
+    2300036: Cylinder
+    2300038: Cylinder1
+    2300040: Park
+    2300042: Plane
+    2300044: Plane1
+    2300046: Plane10
+    2300048: Plane11
+    2300050: Plane12
+    2300052: Plane13
+    2300054: Plane14
+    2300056: Plane15
+    2300058: Plane16
+    2300060: Plane17
+    2300062: Plane18
+    2300064: Plane19
+    2300066: Plane2
+    2300068: Plane20
+    2300070: Plane21
+    2300072: Plane22
+    2300074: Plane23
+    2300076: Plane24
+    2300078: Plane25
+    2300080: Plane26
+    2300082: Plane27
+    2300084: Plane28
+    2300086: Plane29
+    2300088: Plane3
+    2300090: Plane30
+    2300092: Plane31
+    2300094: Plane32
+    2300096: Plane33
+    2300098: Plane34
+    2300100: Plane35
+    2300102: Plane4
+    2300104: Plane5
+    2300106: Plane6
+    2300108: Plane7
+    2300110: Plane8
+    2300112: Plane9
+    2300114: Road
+    2300116: Road 2
+    2300118: Sidewalk
+    2300120: Sidewalk 3
+    2300122: Sidewalk 4
+    2300124: Sidewalk 5
+    2300126: Sidewalk 6
+    2300128: Sidewalk 7
+    2300130: Sidewalk 8
+    2300132: Sidewalk 9
+    2300134: Sphere
+    2300136: Sphere1
+    2300138: Sphere2
+    2300140: Text
+    2300142: Text1
+    2300144: Torus
+    2300146: Torus1
+    2300148: Torus10
+    2300150: Torus11
+    2300152: Torus12
+    2300154: Torus13
+    2300156: Torus14
+    2300158: Torus15
+    2300160: Torus2
+    2300162: Torus3
+    2300164: Torus4
+    2300166: Torus5
+    2300168: Torus6
+    2300170: Torus7
+    2300172: Torus8
+    2300174: Torus9
+    2300176: Yellow Lines
+    2300178: Yellow Lines1
+    3300000: Box
+    3300002: Box1
+    3300004: Box10
+    3300006: Box11
+    3300008: Box12
+    3300010: Box2
+    3300012: Box3
+    3300014: Box4
+    3300016: Box5
+    3300018: Box6
+    3300020: Box7
+    3300022: Box8
+    3300024: Box9
+    3300026: Car
+    3300028: Car1
+    3300030: Car2
+    3300032: Car3
+    3300034: Circle
+    3300036: Cylinder
+    3300038: Cylinder1
+    3300040: Park
+    3300042: Plane
+    3300044: Plane1
+    3300046: Plane10
+    3300048: Plane11
+    3300050: Plane12
+    3300052: Plane13
+    3300054: Plane14
+    3300056: Plane15
+    3300058: Plane16
+    3300060: Plane17
+    3300062: Plane18
+    3300064: Plane19
+    3300066: Plane2
+    3300068: Plane20
+    3300070: Plane21
+    3300072: Plane22
+    3300074: Plane23
+    3300076: Plane24
+    3300078: Plane25
+    3300080: Plane26
+    3300082: Plane27
+    3300084: Plane28
+    3300086: Plane29
+    3300088: Plane3
+    3300090: Plane30
+    3300092: Plane31
+    3300094: Plane32
+    3300096: Plane33
+    3300098: Plane34
+    3300100: Plane35
+    3300102: Plane4
+    3300104: Plane5
+    3300106: Plane6
+    3300108: Plane7
+    3300110: Plane8
+    3300112: Plane9
+    3300114: Road
+    3300116: Road 2
+    3300118: Sidewalk
+    3300120: Sidewalk 3
+    3300122: Sidewalk 4
+    3300124: Sidewalk 5
+    3300126: Sidewalk 6
+    3300128: Sidewalk 7
+    3300130: Sidewalk 8
+    3300132: Sidewalk 9
+    3300134: Sphere
+    3300136: Sphere1
+    3300138: Sphere2
+    3300140: Text
+    3300142: Text1
+    3300144: Torus
+    3300146: Torus1
+    3300148: Torus10
+    3300150: Torus11
+    3300152: Torus12
+    3300154: Torus13
+    3300156: Torus14
+    3300158: Torus15
+    3300160: Torus2
+    3300162: Torus3
+    3300164: Torus4
+    3300166: Torus5
+    3300168: Torus6
+    3300170: Torus7
+    3300172: Torus8
+    3300174: Torus9
+    3300176: Yellow Lines
+    3300178: Yellow Lines1
+    4300000: Plane16
+    4300002: Box
+    4300004: Park
+    4300006: Box4
+    4300008: Box5
+    4300010: Box7
+    4300012: Box6
+    4300014: Sphere2
+    4300016: Box10
+    4300018: Car1
+    4300020: Torus4
+    4300022: Torus7
+    4300024: Torus6
+    4300026: Torus5
+    4300028: Circle
+    4300030: Plane15
+    4300032: Plane35
+    4300034: Yellow Lines
+    4300036: Plane4
+    4300038: Plane5
+    4300040: Plane3
+    4300042: Yellow Lines1
+    4300044: Plane7
+    4300046: Plane6
+    4300048: Plane8
+    4300050: Plane1
+    4300052: Plane11
+    4300054: Plane14
+    4300056: Plane2
+    4300058: Plane10
+    4300060: Plane9
+    4300062: Plane13
+    4300064: Plane12
+    4300066: Plane26
+    4300068: Plane31
+    4300070: Plane28
+    4300072: Plane33
+    4300074: Plane30
+    4300076: Plane27
+    4300078: Plane29
+    4300080: Plane32
+    4300082: Cylinder1
+    4300084: Sphere1
+    4300086: Box1
+    4300088: Car2
+    4300090: Box11
+    4300092: Torus8
+    4300094: Torus11
+    4300096: Torus9
+    4300098: Torus10
+    4300100: Car3
+    4300102: Box12
+    4300104: Torus14
+    4300106: Torus13
+    4300108: Torus15
+    4300110: Torus12
+    4300112: Cylinder
+    4300114: Sphere
+    4300116: Road
+    4300118: Road 2
+    4300120: Box8
+    4300122: Text
+    4300124: Car
+    4300126: Box9
+    4300128: Torus3
+    4300130: Torus
+    4300132: Torus1
+    4300134: Torus2
+    4300136: Text1
+    4300138: Box2
+    4300140: Plane34
+    4300142: Plane19
+    4300144: Plane22
+    4300146: Plane18
+    4300148: Plane20
+    4300150: Plane23
+    4300152: Plane21
+    4300154: Plane24
+    4300156: Plane25
+    4300158: Plane
+    4300160: Sidewalk
+    4300162: Sidewalk 3
+    4300164: Sidewalk 7
+    4300166: Sidewalk 9
+    4300168: Sidewalk 8
+    4300170: Sidewalk 5
+    4300172: Sidewalk 4
+    4300174: Sidewalk 6
+    4300176: Plane17
+    4300178: Box3
+    7400000: Base stack
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

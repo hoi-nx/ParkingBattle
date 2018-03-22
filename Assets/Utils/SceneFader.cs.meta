@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 22edc6e7d1ed9ff4aba0bfb043556606
+timeCreated: 1485870492
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fadeCanvas: {fileID: 1000012525524258, guid: b43832bd19ea19446aa07116c13cc559,
+      type: 2}
+  - fadeAnim: {fileID: 95000010147742774, guid: b43832bd19ea19446aa07116c13cc559,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

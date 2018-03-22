@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 53d41195d090c474fa88bc853e07c531
+timeCreated: 1521055051
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Component#1_001
+    100004: Component#1_002
+    100006: download?mid=c6fbd38a69d007c77d26bf628bf6191a&ctyp=sm&cv=p8.0_001
+    100008: Group_001
+    100010: Group_004
+    100012: Group_005
+    100014: Group_006
+    100016: Group_007
+    100018: Group_008
+    100020: Group_009
+    100022: Group_010
+    100024: Group_011
+    100026: Group_012
+    100028: Group_013
+    100030: Group_014
+    100032: Group_015
+    100034: Group_016
+    100036: Group_017
+    100038: Group_018
+    100040: pants-3_001
+    100042: shirt-3_001
+    100044: shoes-3_001
+    100046: shorts-3_001
+    400000: //RootNode
+    400002: Component#1_001
+    400004: Component#1_002
+    400006: download?mid=c6fbd38a69d007c77d26bf628bf6191a&ctyp=sm&cv=p8.0_001
+    400008: Group_001
+    400010: Group_004
+    400012: Group_005
+    400014: Group_006
+    400016: Group_007
+    400018: Group_008
+    400020: Group_009
+    400022: Group_010
+    400024: Group_011
+    400026: Group_012
+    400028: Group_013
+    400030: Group_014
+    400032: Group_015
+    400034: Group_016
+    400036: Group_017
+    400038: Group_018
+    400040: pants-3_001
+    400042: shirt-3_001
+    400044: shoes-3_001
+    400046: shorts-3_001
+    2100000: Color_I17
+    2100002: Metal_Corrogated_Shiny
+    2100004: Color_002
+    2100006: Translucent_Glass_Gray
+    2100008: _DeepPink_
+    2100010: _MintCream_
+    2100012: _DeepPink_9
+    2100014: _Bisque_3
+    2100016: _DeepPink_4
+    2100018: _Bisque_6
+    2100020: _DeepPink_8
+    2100022: _DeepPink_5
+    2100024: _DeepPink_6
+    2100026: Material1
+    2100028: Material3
+    2100030: Material8
+    2100032: _Black_
+    2100034: Material2
+    2100036: Material7
+    2100038: Material6
+    2100040: Material16
+    2100042: Cobalt
+    2300000: Component#1_001
+    2300002: Component#1_002
+    2300004: download?mid=c6fbd38a69d007c77d26bf628bf6191a&ctyp=sm&cv=p8.0_001
+    2300006: Group_001
+    2300008: Group_004
+    2300010: Group_005
+    2300012: Group_006
+    2300014: Group_007
+    2300016: Group_008
+    2300018: Group_009
+    2300020: Group_010
+    2300022: Group_011
+    2300024: Group_012
+    2300026: Group_013
+    2300028: Group_014
+    2300030: Group_015
+    2300032: Group_016
+    2300034: Group_017
+    2300036: Group_018
+    2300038: pants-3_001
+    2300040: shirt-3_001
+    2300042: shoes-3_001
+    2300044: shorts-3_001
+    3300000: Component#1_001
+    3300002: Component#1_002
+    3300004: download?mid=c6fbd38a69d007c77d26bf628bf6191a&ctyp=sm&cv=p8.0_001
+    3300006: Group_001
+    3300008: Group_004
+    3300010: Group_005
+    3300012: Group_006
+    3300014: Group_007
+    3300016: Group_008
+    3300018: Group_009
+    3300020: Group_010
+    3300022: Group_011
+    3300024: Group_012
+    3300026: Group_013
+    3300028: Group_014
+    3300030: Group_015
+    3300032: Group_016
+    3300034: Group_017
+    3300036: Group_018
+    3300038: pants-3_001
+    3300040: shirt-3_001
+    3300042: shoes-3_001
+    3300044: shorts-3_001
+    4300000: Component#1_002
+    4300002: Group_018
+    4300004: Group_017
+    4300006: Group_016
+    4300008: Group_015
+    4300010: Group_014
+    4300012: Group_013
+    4300014: Group_012
+    4300016: Component#1_001
+    4300018: Group_011
+    4300020: Group_010
+    4300022: Group_009
+    4300024: Group_008
+    4300026: Group_007
+    4300028: Group_006
+    4300030: Group_005
+    4300032: Group_004
+    4300034: Group_001
+    4300036: shorts-3_001
+    4300038: shoes-3_001
+    4300040: pants-3_001
+    4300042: shirt-3_001
+    4300044: download?mid=c6fbd38a69d007c77d26bf628bf6191a&ctyp=sm&cv=p8.0_001
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingBattle", "ParkingBattle.csproj", "{C93C4BA1-6D78-B2C3-F0CB-8D4BD60E4DE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingBattle.Plugins", "ParkingBattle.Plugins.csproj", "{5B3CE122-B0DC-C7A2-2925-F0C12AB692E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingBattle.Editor.Plugins", "ParkingBattle.Editor.Plugins.csproj", "{EF37BEB1-933B-89EC-81B8-A3DE411BB0AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C93C4BA1-6D78-B2C3-F0CB-8D4BD60E4DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C93C4BA1-6D78-B2C3-F0CB-8D4BD60E4DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C93C4BA1-6D78-B2C3-F0CB-8D4BD60E4DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C93C4BA1-6D78-B2C3-F0CB-8D4BD60E4DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B3CE122-B0DC-C7A2-2925-F0C12AB692E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B3CE122-B0DC-C7A2-2925-F0C12AB692E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B3CE122-B0DC-C7A2-2925-F0C12AB692E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B3CE122-B0DC-C7A2-2925-F0C12AB692E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF37BEB1-933B-89EC-81B8-A3DE411BB0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF37BEB1-933B-89EC-81B8-A3DE411BB0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF37BEB1-933B-89EC-81B8-A3DE411BB0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF37BEB1-933B-89EC-81B8-A3DE411BB0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
