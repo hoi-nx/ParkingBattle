@@ -14,6 +14,7 @@
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
     <CompilerResponseFile></CompilerResponseFile>
+    <UnityProjectGenerator>VSTU</UnityProjectGenerator>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows:5</UnityBuildTarget>
     <UnityVersion>2017.3.1f1</UnityVersion>
@@ -50,238 +51,250 @@
     <Reference Include="System.Runtime.Serialization" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEditor">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CoreModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.CoreModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AccessibilityModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AccessibilityModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ParticleSystemModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.ParticleSystemModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PhysicsModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.PhysicsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VehiclesModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.VehiclesModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ClothModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.ClothModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AIModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AnimationModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AnimationModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TextRenderingModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.TextRenderingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TerrainPhysicsModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainPhysicsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.IMGUIModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.IMGUIModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ClusterInputModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterInputModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ClusterRendererModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.ClusterRendererModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UNETModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.UNETModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.DirectorModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.DirectorModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityAnalyticsModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.UnityAnalyticsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.PerformanceReportingModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.PerformanceReportingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityConnectModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.UnityConnectModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.WebModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.WebModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.WebModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ARModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.ARModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VRModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.VRModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIElementsModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StyleSheetsModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.StyleSheetsModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.StyleSheetsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AssetBundleModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AssetBundleModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.AudioModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AudioModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.CrashReportingModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.CrashReportingModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GameCenterModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.GameCenterModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GridModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.GridModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ImageConversionModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.ImageConversionModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.InputModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.InputModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.JSONSerializeModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.JSONSerializeModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ParticlesLegacyModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.ParticlesLegacyModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.ParticlesLegacyModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Physics2DModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.Physics2DModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.ScreenCaptureModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.ScreenCaptureModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SharedInternalsModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.SharedInternalsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpriteMaskModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteMaskModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpriteShapeModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.SpriteShapeModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TerrainModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.TerrainModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TilemapModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.TilemapModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestAudioModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestAudioModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestTextureModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestTextureModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UnityWebRequestWWWModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.UnityWebRequestWWWModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.VideoModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.VideoModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.WindModule">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.WindModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Networking">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Networking">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TestRunner">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/Editor/UnityEditor.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.TestRunner">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/UnityEngine.TestRunner.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TestRunner/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Timeline">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/RuntimeEditor/UnityEngine.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Timeline">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Timeline/Editor/UnityEditor.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.TreeEditor">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UIAutomation">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UIAutomation/UnityEngine.UIAutomation.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UIAutomation">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/UIAutomation/Editor/UnityEditor.UIAutomation.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UIAutomation/Editor/UnityEditor.UIAutomation.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.GoogleAudioSpatializer">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/Editor/UnityEditor.GoogleAudioSpatializer.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.GoogleAudioSpatializer">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityGoogleAudioSpatializer/RuntimeEditor/UnityEngine.GoogleAudioSpatializer.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.HoloLens">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.HoloLens">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/Editor/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.VR">
-      <HintPath>D:/unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Graphs">
-      <HintPath>D:/unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.Android.Extensions">
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions">
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.WSA.Extensions">
-      <HintPath>D:/unity/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.WSA.Extensions.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.WSA.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.WindowsStandalone.Extensions">
-      <HintPath>D:/unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="SyntaxTree.VisualStudio.Unity.Bridge">
       <HintPath>C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/15.0/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Advertisements">
-      <HintPath>C:/Users/Tony Do/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/Stealer Of Souls/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/UnityEngine.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Advertisements">
-      <HintPath>C:/Users/Tony Do/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/Editor/UnityEditor.Advertisements.dll</HintPath>
+      <HintPath>C:/Users/Stealer Of Souls/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.ads@2.0.3/Editor/UnityEditor.Advertisements.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Analytics">
-      <HintPath>C:/Users/Tony Do/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/UnityEngine.Analytics.dll</HintPath>
+      <HintPath>C:/Users/Stealer Of Souls/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/UnityEngine.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Analytics">
-      <HintPath>C:/Users/Tony Do/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/Editor/UnityEditor.Analytics.dll</HintPath>
+      <HintPath>C:/Users/Stealer Of Souls/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.13/Editor/UnityEditor.Analytics.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.Purchasing">
-      <HintPath>C:/Users/Tony Do/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.19/UnityEngine.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/Stealer Of Souls/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.19/UnityEngine.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.Purchasing">
-      <HintPath>C:/Users/Tony Do/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.19/Editor/UnityEditor.Purchasing.dll</HintPath>
+      <HintPath>C:/Users/Stealer Of Souls/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.purchasing@0.0.19/Editor/UnityEditor.Purchasing.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.StandardEvents">
-      <HintPath>C:/Users/Tony Do/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
+      <HintPath>C:/Users/Stealer Of Souls/AppData/LocalLow/Unity/cache/packages/packages.unity.com/com.unity.standardevents@1.0.10/UnityEngine.StandardEvents.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.iOS.Extensions.Common">
+      <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport\UnityEditor.iOS.Extensions.Common.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -291,17 +304,187 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\AllMapCity.cs" />
     <Compile Include="Assets\CopCar.cs" />
+    <Compile Include="Assets\DeadRace\CurveMaterials\curveSet.cs" />
+    <Compile Include="Assets\DeadRace\Plugins\iTween.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\carCamera.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\coinControl.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\drawSkidmarks.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\EndScoreDisplayer.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\floatTruncateTest.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\GamePlayController.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\InappPurchases.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\InputController.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\JustOneHeavyVechileOnScene.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\LoadingSpin.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\LodingAtInGame.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\menuScripts\buyPopUP.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\menuScripts\carSelection.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\menuScripts\freeCoinsADpromotion.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\menuScripts\levelSelection.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\menuScripts\MainMenu.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\menuScripts\TotalCoins.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\Misc\Destroyer.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\moveTopoint.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\NitrousIndicator.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\playerCarControl.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\PoliceCar_Controller.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\PoliceCarController.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\rigidbodyTravel.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\RoadGenerator.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\rockRotate.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\scrollUv.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\sideStaticObjects.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\SkidTrail.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\slopeController.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\SoundController.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\SpalshScreen.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\Store.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\takeScreenShot.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\TiltTuto.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\Traffic_PoliceCarLights.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\trafficCar.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\tweens.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\UIControl.cs" />
+    <Compile Include="Assets\DeadRace\Scripts\uvscro.cs" />
+    <Compile Include="Assets\DeadRace\Standard Assets\Scripts\General Scripts\ActivateTrigger.cs" />
+    <Compile Include="Assets\DemoCollider.cs" />
+    <Compile Include="Assets\GameCenter\Scripts\AllMap.cs" />
+    <Compile Include="Assets\GameCenter\Scripts\ColiderBuyCar.cs" />
+    <Compile Include="Assets\GameCenter\Scripts\ColiderRace.cs" />
+    <Compile Include="Assets\GameCenter\Scripts\MiniMapRender.cs" />
+    <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\IvyMoon\Documentation\ReadMe.cs" />
+    <Compile Include="Assets\IvyMoon\Scripts\currency.cs" />
+    <Compile Include="Assets\IvyMoon\Scripts\CurrencyUI.cs" />
+    <Compile Include="Assets\IvyMoon\Scripts\Pickup.cs" />
+    <Compile Include="Assets\IvyMoon\Scripts\Score.cs" />
+    <Compile Include="Assets\IvyMoon\Scripts\scorePoint.cs" />
     <Compile Include="Assets\LoaderSplash.cs" />
+    <Compile Include="Assets\RaceTrack\~AlternatePhysicsModel\Scripts\AerodynamicResistance.cs" />
+    <Compile Include="Assets\RaceTrack\~AlternatePhysicsModel\Scripts\AntiRollBar.cs" />
+    <Compile Include="Assets\RaceTrack\~AlternatePhysicsModel\Scripts\CarController.cs" />
+    <Compile Include="Assets\RaceTrack\~AlternatePhysicsModel\Scripts\Drivetrain.cs" />
+    <Compile Include="Assets\RaceTrack\~AlternatePhysicsModel\Scripts\Skidmarks.cs" />
+    <Compile Include="Assets\RaceTrack\~AlternatePhysicsModel\Scripts\SoundControllerMap.cs" />
+    <Compile Include="Assets\RaceTrack\~AlternatePhysicsModel\Scripts\TractionHelper.cs" />
+    <Compile Include="Assets\RaceTrack\~AlternatePhysicsModel\Scripts\Wheel.cs" />
+    <Compile Include="Assets\RaceTrack\~AlternatePhysicsModel\Scripts\Wing.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\BlurEffect.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\ColorCorrectionEffect.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\ColorCorrectionEffectPCMac_26.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\Contrast Stretch\ContrastStretchEffect.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\EdgeDetectEffect.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\GlowEffect.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\GlowEffectThreshold_26.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\GrayscaleEffect.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\ImageEffectBase.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\ImageEffects.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\MotionBlur.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\MotionBlurEdge.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\NoiseEffect.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\SepiaToneEffect.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\SSAOEffect.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\TwirlEffect.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Image Based\VortexEffect.cs" />
+    <Compile Include="Assets\RaceTrack\Pro Standard Assets\Water\Sources\Water.cs" />
+    <Compile Include="Assets\RaceTrack\Scripts\CSharpScripts\BirdsBehaviour.cs" />
+    <Compile Include="Assets\RaceTrack\Scripts\CSharpScripts\CarCamera.cs" />
+    <Compile Include="Assets\RaceTrack\Scripts\CSharpScripts\CombineChildren.cs" />
+    <Compile Include="Assets\RaceTrack\Scripts\CSharpScripts\DisableObjects.cs" />
+    <Compile Include="Assets\RaceTrack\Scripts\CSharpScripts\EffectController.cs" />
+    <Compile Include="Assets\RaceTrack\Scripts\CSharpScripts\Generate2DReflection.cs" />
+    <Compile Include="Assets\RaceTrack\Scripts\CSharpScripts\MeshCombineUtility.cs" />
+    <Compile Include="Assets\RaceTrack\Scripts\CSharpScripts\MirrorReflection.cs" />
+    <Compile Include="Assets\RaceTrack\Scripts\CSharpScripts\ToggleObjectTrigger.cs" />
+    <Compile Include="Assets\RaceTrack\Scripts\PathGame.cs" />
+    <Compile Include="Assets\Scripts\AccelerateAndBrake.cs" />
+    <Compile Include="Assets\Scripts\CameraMove.cs" />
+    <Compile Include="Assets\Scripts\carManager.cs" />
+    <Compile Include="Assets\Scripts\CarMovement.cs" />
+    <Compile Include="Assets\Scripts\CollitionDetect.cs" />
+    <Compile Include="Assets\Scripts\doorTrigger.cs" />
+    <Compile Include="Assets\Scripts\GearInit.cs" />
+    <Compile Include="Assets\Scripts\Instantiate.cs" />
+    <Compile Include="Assets\Scripts\MiniMap.cs" />
+    <Compile Include="Assets\Scripts\Rotator.cs" />
     <Compile Include="Assets\Scripts\SplashScreen2.cs" />
+    <Compile Include="Assets\Scripts\SteeringWheel.cs" />
+    <Compile Include="Assets\Scripts\WinCollitionDetect.cs" />
+    <Compile Include="Assets\ShowAllMap.cs" />
+    <Compile Include="Assets\SoudControllerDead.cs" />
+    <Compile Include="Assets\Utils\ConstanstUtil.cs" />
+    <Compile Include="Assets\Utils\EventDispatcher.cs" />
+    <Compile Include="Assets\Utils\Events.cs" />
+    <Compile Include="Assets\Utils\GameObjectUtil.cs" />
+    <Compile Include="Assets\Utils\PositionUtil.cs" />
+    <Compile Include="Assets\Utils\SceneFader.cs" />
+    <Compile Include="Assets\Utils\ScrollSnapRect.cs" />
+    <Compile Include="Assets\Utils\Singleton.cs" />
+    <Compile Include="Assets\Utils\SingletonMonoBehaviour.cs" />
+    <Compile Include="Assets\Utils\UISetExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\DeadRace\CurveMaterials\Curved.shader" />
+    <None Include="Assets\DeadRace\Standard Assets\Projectors\Guidelines.txt" />
+    <None Include="Assets\DeadRace\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
+    <None Include="Assets\DeadRace\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
+    <None Include="Assets\DeadRace\Standard Assets\Skyboxes\_skybox info.txt" />
+    <None Include="Assets\DeadRace\UI\cutoffUnlit.shader" />
+    <None Include="Assets\DeadRace\font\fontShader.shader" />
+    <None Include="Assets\DeadRace\racersCars\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
+    <None Include="Assets\DeadRace\racersCars\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
+    <None Include="Assets\DeadRace\racersCars\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
+    <None Include="Assets\DeadRace\racersCars\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Glass Refraction\Glass-Stained-BumpDistort.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Glass Refraction\Glass-Stained-BumpSpecDistort.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\ColorCorrectionEffect.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\ColorCorrectionEffect_26.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\Contrast Stretch\Adaptation.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\Contrast Stretch\Apply.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\Contrast Stretch\Luminance.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\Contrast Stretch\MinMaxReduction.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\EdgeDetectX.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\GlowEffectDownsample.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\GlowEffectDownsample_26.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\GrayscaleEffect.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\MotionBlur.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\NoiseEffectShaderRGB.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\NoiseEffectShaderYUV.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\SSAOShader.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\SepiaToneEffect.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\TwirlEffect.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Image Based\VortexEffect.shader" />
+    <None Include="Assets\RaceTrack\Pro Standard Assets\Water\Sources\FX-Water.shader" />
+    <None Include="Assets\RaceTrack\Shaders\Alpha-Diffuse-ZWrite.shader" />
+    <None Include="Assets\RaceTrack\Shaders\Alpha-VertexLitGlow02.shader" />
+    <None Include="Assets\RaceTrack\Shaders\AlphaTest-Diffuse-GEqual.shader" />
+    <None Include="Assets\RaceTrack\Shaders\GlassBuilding.shader" />
+    <None Include="Assets\RaceTrack\Shaders\GlassReflect.shader" />
+    <None Include="Assets\RaceTrack\Shaders\Glassreflect2D.shader" />
+    <None Include="Assets\RaceTrack\Shaders\LightMappedDiffusetDetail.shader" />
+    <None Include="Assets\RaceTrack\Shaders\LightsEmmissive.shader" />
+    <None Include="Assets\RaceTrack\Shaders\MirrorReflectionLit.shader" />
+    <None Include="Assets\RaceTrack\Shaders\Normal-BumpSpec_EnvLightmapped.shader" />
+    <None Include="Assets\RaceTrack\Shaders\PolyTerrain\FirstPassLightmap.shader" />
+    <None Include="Assets\RaceTrack\Shaders\PolyTerrain\polysplatting.cginc" />
+    <None Include="Assets\RaceTrack\Shaders\ShadowProjection.shader" />
+    <None Include="Assets\RaceTrack\Shaders\Skidmarks.shader" />
+    <None Include="Assets\RaceTrack\Shaders\TransparentLightMappedVertexLiZWrite.shader" />
+    <None Include="Assets\RaceTrack\Textures\VFX\ShadowProjection.shader" />
+    <None Include="Assets\RaceTrack\~AlternatePhysicsModel\Source Assets\Cars\Car.shader" />
+    <None Include="Assets\RaceTrack\~AlternatePhysicsModel\Source Assets\Skidmarks\Skidmarks.shader" />
     <None Include="Assets\Simple city plain\Read_me.txt" />
+    <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
+    <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
     <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\Standard Assets\Vehicles\Car\CarGuidelines.txt" />
     <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\DiffuseReflectiveShader.shader" />
     <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpec.shader" />
     <None Include="Assets\Standard Assets\Vehicles\Car\Shaders\ReflectiveDiffuseSpecTransp.shader" />
+    <None Include="Assets\sky5X\README.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

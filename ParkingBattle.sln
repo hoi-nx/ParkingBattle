@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2017
+# Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingBattle", "ParkingBattle.csproj", "{C93C4BA1-6D78-B2C3-F0CB-8D4BD60E4DE0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingBattle.Plugins", "ParkingBattle.Plugins.csproj", "{5B3CE122-B0DC-C7A2-2925-F0C12AB692E7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingBattle.Editor.Plugins", "ParkingBattle.Editor.Plugins.csproj", "{EF37BEB1-933B-89EC-81B8-A3DE411BB0AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkingBattle.Editor", "ParkingBattle.Editor.csproj", "{93A858BE-0704-C7C2-4029-0EBFB190F61C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -25,6 +27,10 @@ Global
 		{EF37BEB1-933B-89EC-81B8-A3DE411BB0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF37BEB1-933B-89EC-81B8-A3DE411BB0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF37BEB1-933B-89EC-81B8-A3DE411BB0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93A858BE-0704-C7C2-4029-0EBFB190F61C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93A858BE-0704-C7C2-4029-0EBFB190F61C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93A858BE-0704-C7C2-4029-0EBFB190F61C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93A858BE-0704-C7C2-4029-0EBFB190F61C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
